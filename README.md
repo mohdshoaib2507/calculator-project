@@ -1,4 +1,4 @@
 # calculator-project
 This is my first Git Respository
 <br>
-Author - Mohammed Shoaib
+Author - Mohammed Shoaib Khan
